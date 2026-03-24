@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-image-compressor.codama.dev/sitemap.xml
